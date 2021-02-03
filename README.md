@@ -1,7 +1,7 @@
 # IKEA-DUKTIG-Childrens-Kitchen-Microwave-Upgrade
 There is a great variety of different projects about upgrading the IKEA childrens kitchen “DUKTIG” by a microwave-simulation out there on the internet. Inspired by those I decided to create my own simple project, especially since my wife was planning to upgrade the look of the kitchen as well for having a great Christmas present for the children. 
 
-<p align="center"><img src="/images/Animation-MW.gif" width="50%">
+<p align="center"><img src="/images/Animation-MW.gif" width="75%">
 
 # Description
 The microwave’s main human interface is a single push button. On pressing the button, a bulb inside the microwave lights up, a deep tone starts to make some noise and the three-digit seven segment display starts countdown form 10 seconds. By pressing the button again, the value of the clock can be increased by 5 seconds. Maximum is 30s. After finishing the countdown, light and sound is switched off an the microwave makes some beep noise, showing “end” on display. This describes the normal operation if the door is closed. 
