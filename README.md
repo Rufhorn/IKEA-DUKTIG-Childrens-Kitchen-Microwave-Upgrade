@@ -4,8 +4,8 @@ There is a great variety of different projects about upgrading the IKEA children
 <p align="center"><img src="/images/Animation-MW.gif" width="75%">
 
 # Description
-The microwave’s main human interface is a single push button. On pressing the button, a bulb inside the microwave lights up, a deep tone starts to make some noise and the three-digit seven segment display starts countdown form 10 seconds. By pressing the button again, the value of the clock can be increased by 5 seconds. Maximum is 30s. After finishing the countdown, light and sound is switched off an the microwave makes some beep noise, showing “end” on display. This describes the normal operation if the door is closed. 
-If the door is open when starting the procedure, the microwave indicates this by some beep noise and “---” on display and does not start. If the door is being opened during running operation, the process is stopped immediately and it displays “end” plus makes the ending beep noise.
+The microwave’s main human interface is a single push button. On pressing the button, a bulb inside the microwave lights up, a deep tone starts to make some noise and the three-digit seven segment display starts a countdown form 10 seconds. By pressing the button again, the value of the clock can be increased by 5 seconds. Maximum is 30s. After finishing the countdown, light and sound is switched off and the microwave makes some beep noise, showing “end” on display. This describes the normal operation if the door is closed. 
+If the door is open when starting the procedure, the microwave indicates it by some beep noise, shows “---” on display and does not start. If the door is being opened during running operation, the process is stopped immediately and it displays “end” plus makes the ending beep noise.
 
 # Hardware
 For the project I used components that I had laying around somewhere so I won't be able to tell you the detailed labelling of each part.
